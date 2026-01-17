@@ -1,4 +1,4 @@
-# 🚀 Estruturas de Dados em C
+# Estruturas de Dados em C
 
 > Um repositório de implementações "from scratch" (do zero), focando na lógica algorítmica pura e no gerenciamento manual de memória.
 
@@ -12,20 +12,20 @@
 
 ---
 
-## 🎯 Objetivo do Repositório
+## Objetivo do Repositório
 
 Este projeto não se trata apenas de código, mas de **fundamentação teórica aplicada**. O objetivo é solidificar o entendimento de como os dados são organizados na memória, abrindo mão de bibliotecas prontas para implementar cada nó, ponteiro e alocação manualmente.
 
-### 🧠 Competências Desenvolvidas
+### Competências Desenvolvidas
 * **Gestão de Memória:** Uso extensivo de `malloc`, `free` e aritmética de ponteiros.
 * **Complexidade Algorítmica:** Foco na eficiência das operações de busca, inserção e remoção.
 * **Abstração:** Implementação de Tipos Abstratos de Dados (TADs).
 
 ---
 
-## 📚 Estruturas Implementadas
+## Estruturas Implementadas
 
-### 1. 🔗 Estruturas Lineares
+### 1. Estruturas Lineares
 O alicerce da organização de dados sequenciais.
 
 | Estrutura | Variações Implementadas |
@@ -34,7 +34,7 @@ O alicerce da organização de dados sequenciais.
 | **Pilhas (Stacks)** | Implementações baseadas em Vetores (Arrays) e Listas Dinâmicas. |
 | **Filas (Queues)** | Implementações baseadas em Vetores e Listas. |
 
-### 2. 🌳 Estruturas Não-Lineares (Árvores)
+### 2. Estruturas Não-Lineares (Árvores)
 Implementações hierárquicas focadas em performance de busca.
 
 * **BST (Binary Search Tree):** A base das árvores, com operações de inserção, remoção e travessia.
@@ -42,17 +42,17 @@ Implementações hierárquicas focadas em performance de busca.
     * *Aplicação Prática:* Projeto **Dicionário**, onde a AVL é usada para garantir buscas em tempo logarítmico $O(\log n)$.
 * **Red-Black Tree:** Implementação complexa de árvore rubro-negra balanceada.
 
-### 3. ⚡ Acesso Rápido & Grafos
+### 3. Acesso Rápido & Grafos
 Estruturas avançadas para mapeamento e relações.
 
-* **#️⃣ Tabelas Hash:** Tratamento de colisões via *Endereçamento Aberto* e *Encadeamento*.
-* **🕸️ Grafos:**
+* **Tabelas Hash:** Tratamento de colisões via *Endereçamento Aberto* e *Encadeamento*.
+* **Grafos:**
     * **Representação:** Matriz de Adjacência e Lista de Adjacência.
     * **Algoritmos:** Busca em Largura (BFS) e Busca em Profundidade (DFS).
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="left">
   <img src="https://img.shields.io/badge/Linguagem-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -65,7 +65,7 @@ Estruturas avançadas para mapeamento e relações.
 
 ---
 
-## 🚀 Como Compilar e Rodar
+## Como Compilar e Rodar
 
 Como os códigos são independentes, você pode compilar qualquer estrutura individualmente usando o GCC.
 
